@@ -5,3 +5,4 @@
 2. Create a new repository
 3. Clone repository to local
 4. Push to GitHub
+5. Install Python extensions in VScode
