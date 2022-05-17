@@ -6,3 +6,5 @@
 3. Clone repository to local
 4. Push to GitHub
 5. Install Python extensions in VScode
+6. Create app.py
+7. Create Flask server
